@@ -1,0 +1,127 @@
+"Managing 100 Digital Humanities Projects: Digital Scholarship & Archiving in King's Digital Lab"
+•	DH is most prominent in EU and NA, less prominent in AS and AU, and even less prominent in AF and SA. This characterization reminds me of our discussions/readings about race and how whiteness is the predominant viewpoint propagated in DH. 
+•	There are no technological standards when it comes to preserving/archiving in DH. 
+•	Many legacy DH projects are security risks and have little funding
+o	Raise awareness of issue
+o	Evolve management of DH infrastructure
+o	Attention to full lifecycle of projects
+o	Inventive funding
+o	Sharing costs across agencies/institutions
+•	Any solution must address the DH scholarship itself, funding/operational issues, and the entropy of technology
+•	King’s Digital Lab dedicated to research software engineering
+•	Design and engineering of software and its supporting infrastructures is a problem that needs to be conceived as at once technical, political, economic, and human
+•	Of the 100 projects inherited by the lab, about half are either of exceptionally high quality or seminal in other ways
+•	Protecting/securing these DH projects is difficult, as it faces
+o	Technical/financial realities
+o	Critics
+o	Corporatization of higher ed
+o	Gaps in national policy
+•	Many projects were kept running but not maintained (i.e. outdated tech)
+•	Pressures shouldn’t be hidden, they should be explored
+•	This paper is written in a bad font. PIs looks like Pls (please)
+•	Open-source tools lower the risk (increase security). Why is that?
+•	The funding for projects described in this paper only supported development and not post-launch maintenance
+o	The future of many projects was not discussed
+•	Defunding of Arts and Humanities Data Service and the AHRC ICT Methods Network undermined future of projects
+•	DH needs to be grounded in the nature of computing technology and capable of guiding technical development as well as critical and historical analysis
+•	The tech industry is biased towards newness at the cost of maintenance
+•	DH needs to assess its own tech requirements and not just blindly adopt infrastructures that are used elsewhere
+•	View DH as a human and community asset that needs maintenance rather than a purely tech asset that needs management
+•	There is a dearth of permanent DH teams/jobs, which is a failure of the field at the human level
+•	High quality research requires sustainability
+•	King’s Digital Lab kinda stacked with infrastructure tho
+•	Maintenance requires consistency in tech
+•	Some projects should be archived online but don’t require constant, hands-on maintenance
+•	Assess digital material by considered
+o	The heterogeneity of projects
+o	Mismatch between scholarly value and metrics such as web traffic
+o	Uneven access to funding
+•	Assess in terms of
+o	Scholarly value
+o	Technical complexity
+o	Security risk
+o	Maintenance cost
+o	Infrastructure cost
+o	PI engagement
+o	Institutional support
+o	Value to KDL
+o	Value to King’s College London
+•	Assessment made in prose form, not according to a matrix (i.e. a rubric) to articulate the nuances of quantitative and qualitative issues
+•	PI – principal investigator
+•	Have to consider the ‘brand’ value to the university
+o	This seems to have no relation to the actual scholarly or cultural value of a product. Fucking management amirite
+•	KDL accounts for the human, technical, financial, and political perspectives in DH
+•	People should experiment with new tech, but not at a cost to the maintenance of old tech. sustainability should be accounted for in the beginning stages of a project’s lifecycle
+
+The Internet Archive Software Collection
+From a pure gaming standpoint, I don’t think the vast majority of these games should be archived; they’re shite. The controls are clunky and frustrating, and the gameplay isn’t smooth at all. However, from a historical perspective, I believe that these games should be archived because they are evidence of the progress the video game industry, and technology has a whole, has made. I think the advancement of technology is made apparent by video games perhaps more than anything else by nature of them as a visual medium. The difference between television 50 years ago and television today is pronounced, but nowhere near the disparity between games 50 years ago and games now. Comparing a game like Pac-Man or ET to games like Witcher 3 or Valorant is like comparing a horse-drawn carriage to a Ferrari. 
+
+The Future of Your Data
+•	One failure of DH is how they age: people who worked on projects initially might not work on them now, the technology used to make the project might be outdated
+•	Consider how you might save/preserve your digital content, whatever that content may be, so it is easier to use/access in the future
+•	Digital formats require updates
+•	Physical limitations: losing a flash drive, dropping your phone, component failure, bit rot
+o	Physical mediums constantly degrade
+o	Files stored on physical mediums can degrade
+o	Everything has a lifespan
+•	Physical mitigations: backups, organize/migrate files every few years, check sums, controlled storage (cold, low humidity)
+o	Checksum – every time you make a checksum, it should be the same, if the checksum changes, the file has changed
+•	Software limitations
+o	Software is constantly changing
+o	Common limitations: can’t open a file format, unable to run a script, website broken
+•	Software mitigations
+o	Complete redo in new technology
+o	Upgrade
+o	Combination of the above
+o	What was the original like? Do you have any ways of getting it running (e.g. emulator)? What were the important parts, and can you salvage them?
+•	Provider Limitations 
+o	Provider – a third party providing a service to your project (e.g. cloud services, hosting site)
+o	Unexpected expenses
+o	Company goes out of busines
+o	Changes to laws, regulations, or policies
+o	Malicious actors (e.g. DDOS attack)
+o	Retiring products or services
+•	Provider Mitigations
+o	Make a plan for the worst casef
+o	Be aware of emails, correspondence from provider
+o	Keep a copy of your data
+•	Human limitations
+o	The original developer is gone
+o	No instructions
+o	Not enough knowledge to fix or redo
+•	Human mitigations
+o	Write everything down and put it in a place you can find it
+o	Choose commonly used tech
+o	Make a plan for the future
+•	The more pieces in a project, the more complex it is, the more susceptible it is to failure
+•	Before you start:
+o	What’s the minimum viable product? What do you need and what don’t you need?
+o	Choose or create standards; metadata, file naming conventions, where you put stuff
+•	Collaborate
+o	Identify collaborators 
+o	Who is responsible for what?
+o	How will you communicate?
+o	How do you credit everyone?
+•	Set up documentation and issue tracking
+o	Find location for documentation
+o	Think about technology for documentation
+o	How will you keep track of ‘todo’ items? 
+o	Who can access all of this stuff?
+•	Choose tech carefully
+o	What do you need it to do? 
+o	Is it widely used and supported?
+o	How much maintenance will it need?
+o	Can you easily train someone to use it?
+o	Will your data be stored within the system or outside of it?
+o	Plain text and non-proprietary formats? Proprietary format – specific to a specific piece of software/technology/company
+•	Think about money
+o	Figure expenses now and in the future: website and file hosting, staff/consultant wages, software purchases
+•	Make plans
+o	Will the project ever ‘end’? how will you add new things? What if you find mistakes?
+o	What if you are asked to take part down?
+o	What if part of the site stops working?
+o	How might you gracefully retire it?
+
+Voyant
+•	I pasted in some of my notes for a paper I’m working on for another class, and the results weren’t accurate; they missed/failed to account for one of the words that I used most, ‘K’, in their standard report. I think that this feature is generally good, as it omits words like ‘a’ and ‘the’, but in this specific instance the omission was significant, as ‘K’ is the name of the protagonist in the film I’m analyzing, Blade Runner 2049. 
+•	You can export the results of analyses on Voyant, but I’m not sure if exporting produces static assets or assets linked to the webservices provided by Voyant. If it’s the former, the assets would be more future-proof. 
